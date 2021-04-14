@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthikeya
-- 👀 I’m interested in BackEnd Development (nodeJs)
-- 🌱 I’m currently learning FrontEnd Vuejs 
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning AngularJs
 - 📫 You can reach me on Email:-sandinenikarthikeya@gmail.com
 
 
