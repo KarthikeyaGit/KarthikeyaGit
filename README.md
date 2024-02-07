@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Karthikeya
 - 👀 I am a skilled Full Stack Developer with 3 years of experience using React, Angular, VueJS, NodeJS, and proficiency in front-end, back-end technologies, database management, and server deployment. Have excelled in agile development methodologies, teamwork, and problem-solving. My focus is on exceeding user expectations, streamlining processes, and improving business efficiency.
 - 🌱 I’m currently learning GoLang
-- 📫 You can reach me on Email:-sandinenikarthikeya@gmail.com
